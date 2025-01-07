@@ -2,3 +2,5 @@
 git commands
 pipeline
 git actions
+GEN 
+DIGITAL
